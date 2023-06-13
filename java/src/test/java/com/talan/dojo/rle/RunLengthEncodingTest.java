@@ -7,7 +7,7 @@ public class RunLengthEncodingTest {
 
     private RunLengthEncoding runLengthEncoding;
 
-    @BeforeAll
+    @BeforeEach
     public void setUp() {
         runLengthEncoding = new RunLengthEncoding();
     }

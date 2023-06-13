@@ -1,7 +1,7 @@
 target/
 
 # intellij generated files
-.ideas
+.idea
 
 # Eclipse m2e generated files
 # Eclipse Core
